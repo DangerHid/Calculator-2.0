@@ -1,0 +1,22 @@
+.calculatorInBrowser {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: azure;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.calculatorInBrowser .operation-block-button button {
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
+
+.calculatorInBrowser .allInputBlockCalculator label {
+    display: block;
+}
+
+.calculatorInBrowser .allInputBlockCalculator .inputBlockCalculator {
+    display: inline-block;
+}
